@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Wind and leaf symbol">
+  <circle cx="32" cy="32" r="30" fill="#e8eee7" />
+  <path d="M11 25C22 15 28 25 40 21c5-2 8-6 7-10" fill="none" stroke="#344f3f" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M14 35c11-7 24 0 34-5 5-2 7-6 6-10" fill="none" stroke="#344f3f" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M17 44c12-6 19 2 28-3" fill="none" stroke="#805237" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M46 41c-2 7-8 10-14 10 2-5 6-10 14-10Z" fill="#879b7b"/>
+</svg>
